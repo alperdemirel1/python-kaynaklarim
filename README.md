@@ -1,4 +1,5 @@
 # python-kaynaklarim
+Python öğrenmeye yeni başlayanlar ve kendini geliştirmek isteyenler için yararlı olabileceğini düşündüğüm bazı ücretsiz kaynaklar
 
 * Türkçe olarak benim gördüğüm en kapsamlı kaynak olan ve birçok geliştiricinin desteğiyle hazırlanan bu siteye bakmanızı tavsiye ederim. Maalesef PDF hali yok fakat GitHub reposunu indirip “index.html” dosyasını çalıştırırsanız internet bağlantınız olmadan da belgeleri kullanabilirsiniz.
 
