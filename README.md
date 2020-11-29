@@ -28,4 +28,4 @@
 
 Şu an ben de başlangıç seviyesinde Python öğrenen biri olarak karşılaştığım, gördüğüm ve bu alanda bazı uzman kişilerin paylaştığı bazı kaynakları sizlerle paylaştım. İnternette çok fazla kaynak var ve bazen hangisine bakacağımı, en doğrusunun hangisi olduğu konusunda çok fazla kafam karışmakta. Keşke bir sihir olsa ve internette yer alan bütün kaynakları keşfedebilsek ve öğrenebilsek :) Umarım paylaştığım kaynaklar ilgilenen arkadaşlara faydalı olur!
   
-# Not: Python öğrenmeye, keşfetmeye ve araştırmaya devam ettikçe güzel bulduğum kaynakları bu repo altında paylaşmaya devam edeceğim.
+# Python öğrenmeye, keşfetmeye ve araştırmaya devam ettikçe güzel bulduğum kaynakları bu repo altında paylaşmaya devam edeceğim.
