@@ -3,7 +3,6 @@
 * Türkçe olarak benim gördüğüm en kapsamlı kaynak olan ve birçok geliştiricinin desteğiyle hazırlanan bu siteye bakmanızı tavsiye ederim. Maalesef PDF hali yok fakat GitHub reposunu indirip “index.html” dosyasını çalıştırırsanız internet bağlantınız olmadan da belgeleri kullanabilirsiniz.
 
     * https://python-istihza.yazbel.com/
-
     * https://github.com/yazbel/python-istihza
 
 * Bilgisayar Bilimi Profesörü Charles Severance(Dr. Chuck) tarafından Python öğrenmek isteyen herkese sunulan “Python for Everybody” incelemenizi öneririm. Hem dökümantasyon hali hem de çeşitli online platformlarda videoları bulunan bu kurs/eğitim bana başlangıç seviyesi için güzel bir temel oluşturdu. Videolarını çok eğlenceli bir şekilde ve farklı bir bakış açısıyla anlatan Charles Severance Python dilini oyunlaştırarak zevkli hale getirmektedir.
@@ -28,4 +27,4 @@
 
 Şu an ben de başlangıç seviyesinde Python öğrenen biri olarak karşılaştığım, gördüğüm ve bu alanda bazı uzman kişilerin paylaştığı bazı kaynakları sizlerle paylaştım. İnternette çok fazla kaynak var ve bazen hangisine bakacağımı, en doğrusunun hangisi olduğu konusunda çok fazla kafam karışmakta. Keşke bir sihir olsa ve internette yer alan bütün kaynakları keşfedebilsek ve öğrenebilsek :) Umarım paylaştığım kaynaklar ilgilenen arkadaşlara faydalı olur!
   
-# Python öğrenmeye, keşfetmeye ve araştırmaya devam ettikçe güzel bulduğum kaynakları bu repo altında paylaşmaya devam edeceğim.
+# Python öğrenmeye, keşfetmeye ve araştırmaya devam ettikçe güzel bulduğum kaynakları bu repo altında paylaşmaya devam edeceğim!
