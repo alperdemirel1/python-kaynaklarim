@@ -24,6 +24,13 @@ Python öğrenmeye yeni başlayanlar ve kendini geliştirmek isteyenler için ya
     * https://github.com/fuatbeser/python-notlarim
     * https://github.com/TheAlgorithms/Python
     * https://github.com/Asabeneh/30-Days-Of-Python
+    * https://github.com/huangsam/ultimate-python
+    
+* Python ile ilgili kapsamlı cheatsheetler, websiteler, makaleler ve daha fazlası:
+   * https://www.pythoncheatsheet.org/
+   * https://www.kdnuggets.com/2020/10/10-underrated-python-skills.html
+   * https://www.fullstackpython.com/
+   * https://realpython.com/tutorials/intermediate/
 
 
 Şu an ben de başlangıç seviyesinde Python öğrenen biri olarak karşılaştığım, gördüğüm ve bu alanda bazı uzman kişilerin paylaştığı bazı kaynakları sizlerle paylaştım. İnternette çok fazla kaynak var ve bazen hangisine bakacağımı, en doğrusunun hangisi olduğu konusunda çok fazla kafam karışmakta. Keşke bir sihir olsa ve internette yer alan bütün kaynakları keşfedebilsek ve öğrenebilsek :) Umarım paylaştığım kaynaklar ilgilenen arkadaşlara faydalı olur!
