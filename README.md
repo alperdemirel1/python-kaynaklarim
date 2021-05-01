@@ -25,6 +25,8 @@ Python öğrenmeye yeni başlayanlar ve kendini geliştirmek isteyenler için ya
     * https://github.com/TheAlgorithms/Python
     * https://github.com/Asabeneh/30-Days-Of-Python
     * https://github.com/huangsam/ultimate-python
+    * https://github.com/trekhleb/learn-python
+    * https://github.com/jerry-git/learn-python3
     
 * Python ile ilgili kapsamlı cheatsheetler, websiteler, makaleler ve daha fazlası:
    * https://www.pythoncheatsheet.org/
