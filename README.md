@@ -27,6 +27,7 @@ Python öğrenmeye yeni başlayanlar ve kendini geliştirmek isteyenler için ya
     * https://github.com/huangsam/ultimate-python
     * https://github.com/trekhleb/learn-python
     * https://github.com/jerry-git/learn-python3
+    * https://github.com/hastagAB/Awesome-Python-Scripts?utm=twitter/GithubProjects
     
 * Python ile ilgili kapsamlı cheatsheetler, websiteler, makaleler ve daha fazlası:
    * https://www.pythoncheatsheet.org/
