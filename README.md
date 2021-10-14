@@ -40,6 +40,9 @@ Python öğrenmeye yeni başlayanlar ve kendini geliştirmek isteyenler için ya
    * https://www.python.org/dev/peps/pep-0008/
    * https://ipython.readthedocs.io/en/stable/interactive/magics.html
    * https://dev.to/renegadecoder94/71-python-code-snippets-for-everyday-problems-1mep
+ 
+* Python mülakatlarında yardımcı olacak bazı kaynaklar:
+   * https://realpython.com/python-coding-interview-tips/
 
 
 Şu an ben de başlangıç seviyesinde Python öğrenen biri olarak karşılaştığım, gördüğüm ve bu alanda bazı uzman kişilerin paylaştığı bazı kaynakları sizlerle paylaştım. İnternette çok fazla kaynak var ve bazen hangisine bakacağımı, en doğrusunun hangisi olduğu konusunda çok fazla kafam karışmakta. Keşke bir sihir olsa ve internette yer alan bütün kaynakları keşfedebilsek ve öğrenebilsek :) Umarım paylaştığım kaynaklar ilgilenen arkadaşlara faydalı olur!
